@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ticergeri.github.io/sitemap
+Sitemap: https://ticergeri.github.io/app/sitemap
+Sitemap: https://ticergeri.github.io/assets/sitemap
+Sitemap: https://ticergeri.github.io/css/sitemap
+Sitemap: https://ticergeri.github.io/includes/sitemap
+Sitemap: https://ticergeri.github.io/item/sitemap
+Sitemap: https://ticergeri.github.io/src/sitemap
